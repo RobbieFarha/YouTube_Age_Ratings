@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Web Project</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+  <script type="text/javascript" src="script.js"></script>
+</head>
+<body>
+  <label for="ageRatingSelect">Select Age Rating:</label>
+  <select id="ageRatingSelect">
+    <option value="12+">12+</option>
+    <option value="15+">15+</option>
+    <option value="18+">18+</option>
+  </select>
+  <button id="onButton">ON</button>
+  <button id="offButton">OFF</button>
+</body>
+</html>
